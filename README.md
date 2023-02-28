@@ -1,2 +1,2 @@
-# olve
+# Olve
 Travel Schedule Generator
